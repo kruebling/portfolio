@@ -47,6 +47,7 @@
 }
 
 .media img {
+  float: inherit;
   border-radius: 25px;
   padding: 20px;
   width: 540px;
@@ -56,4 +57,18 @@
 
 .media span {
   font-weight: lighter;
+}
+
+.media ul li {
+  font-size: 15px;
+}
+
+.media .aboutbox {
+  float: inherit;
+  box-sizing: content-box;
+  padding: 5px;
+  border: 2px solid #857101;
+  margin-right: 10px;
+  border-radius: 25px;
+  background-color: #FFFBAC;
 }
