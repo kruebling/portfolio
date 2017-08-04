@@ -24,3 +24,20 @@
 .page-header {
   padding-left: 15px;
 }
+
+.jumbotron p {
+  font-size: 25px;
+  text-align: center;
+}
+
+.jumbotron h1 {
+  text-align: center;
+}
+
+.jumbotron h2 {
+  text-align: center;
+}
+
+.jumbotron h3 {
+  text-align: center;
+}
