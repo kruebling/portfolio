@@ -66,9 +66,13 @@
 .media .aboutbox {
   float: inherit;
   box-sizing: content-box;
-  padding: 5px;
-  border: 2px solid #857101;
+  padding: 10px;
+  border: 2px grey;
   margin-right: 10px;
   border-radius: 25px;
-  background-color: #FFFBAC;
+  background-color: rgba(85,85,85,0.15);
+}
+
+.page-header span {
+  font-weight: lighter;
 }
