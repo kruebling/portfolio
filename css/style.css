@@ -41,3 +41,19 @@
 .jumbotron h3 {
   text-align: center;
 }
+
+.media {
+  padding-left: 15px;
+}
+
+.media img {
+  border-radius: 25px;
+  padding: 20px;
+  width: 540px;
+  height: 720px;
+  opacity: 0.9;
+}
+
+.media span {
+  font-weight: lighter;
+}
