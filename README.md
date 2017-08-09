@@ -7,7 +7,7 @@
 ## Description
 
 _This webpage is my first attempt at creating a portfolio page utilizing css, bootcamp, and html._
-_Github repo found at: https://github.com/kruebling/portfolio_
+_Github repo found at: https://kruebling.github.io/portfolio/_
 
 ## Setup/Installation Requirements
 
